@@ -63,6 +63,7 @@ I'm actively targeting **Software Engineer, Full-Stack, and Data / Product** rol
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Qdrant](https://img.shields.io/badge/Qdrant-DC244C?style=for-the-badge&logo=qdrant&logoColor=white)
 
 **Tools**
 
@@ -85,6 +86,12 @@ EEG-Based Gait Decoding and Electrode Optimization
 
 ## Featured Projects
 
+### GraphLens — Enterprise Document Intelligence
+`FastAPI` `Next.js` `GraphRAG` `Qdrant` `OpenAI`
+- Upload documents and ask questions in natural language, answered with cited, graph-augmented responses.
+- Hybrid retrieval merging Qdrant vector search with Microsoft GraphRAG for multi-hop reasoning across documents.
+- JWT auth + RBAC, multi-format ingestion (PDF/Word/Excel + OCR), and token-by-token streaming chat with a live citation panel.
+
 ### FreechargeBiz Credit Card Recommendation Engine — [Live App](https://credit-card-recommender-zeta.vercel.app/)
 `Next.js` `OpenAI GPT-4o-mini` `K-Means`
 - AI-powered card matching with explainable 0-100 scoring across 5 weighted factors and spend-linked rationale.
@@ -96,6 +103,11 @@ EEG-Based Gait Decoding and Electrode Optimization
 - Salary benchmarking tool that returns per-factor SHAP explanations instead of a black-box number.
 - Analyzed 49k+ Stack Overflow responses, surfacing location (38%) and tech stack (35%) as near-equal salary drivers.
 - Shipped live with per-prediction waterfall visualizations for non-technical users.
+
+### Skyro — Flight Management PWA
+`Next.js` `Supabase` `TypeScript` `PWA`
+- Flight booking PWA: search flights, pick seats on a live-updating seat map, book with PNR, and manage trips.
+- Realtime seat availability via Supabase, protected routes with auth, and an installable offline-capable shell.
 
 ---
 
@@ -111,5 +123,22 @@ EEG-Based Gait Decoding and Electrode Optimization
 </p>
 
 ---
+
+## Connect
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/sambit-behera-53363725a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sambit.behera8587@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Sambitasterio">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://leetcode.com/u/sambit_behera/">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+  </a>
+</p>
 
 <p align="center">⭐ From Sambit Behera</p>
