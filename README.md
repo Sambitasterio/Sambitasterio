@@ -104,11 +104,6 @@ EEG-Based Gait Decoding and Electrode Optimization
 - Analyzed 49k+ Stack Overflow responses, surfacing location (38%) and tech stack (35%) as near-equal salary drivers.
 - Shipped live with per-prediction waterfall visualizations for non-technical users.
 
-### Skyro — Flight Management PWA
-`Next.js` `Supabase` `TypeScript` `PWA`
-- Flight booking PWA: search flights, pick seats on a live-updating seat map, book with PNR, and manage trips.
-- Realtime seat availability via Supabase, protected routes with auth, and an installable offline-capable shell.
-
 ---
 
 ## GitHub Stats
