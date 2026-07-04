@@ -3,6 +3,18 @@
   B.Tech CSE @ BIT Mesra (2026) | Full-Stack Generalist | Product-Minded Engineer
 </p>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/sambit-behera-53363725a">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:sambit.behera8587@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://github.com/Sambitasterio">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
+
 ---
 
 ## About Me
@@ -16,22 +28,46 @@ I'm actively targeting **Software Engineer, Full-Stack, and Data / Product** rol
 ## Tech Stack
 
 **Languages**
-Python, JavaScript, TypeScript, SQL, C++
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 **Frontend**
-React.js, Next.js, HTML, CSS, Tailwind CSS
+
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 **Backend & APIs**
-FastAPI, REST APIs, LangChain, RAG
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 
 **Data & Analytics**
-Pandas, NumPy, XGBoost, SHAP, Power BI, Tableau, EDA
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 
 **Databases**
-PostgreSQL, MySQL
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Tools**
-Git, GitHub, Streamlit, Postman, Figma (basic), Notion, Jira
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
 
 ---
 
@@ -60,14 +96,6 @@ EEG-Based Gait Decoding and Electrode Optimization
 
 ---
 
-## Achievements
-
-- 🏆 **Top 1% (Rank 3,680 / 100,000+)** — Naukri Campus Young Turks 2025
-- 🤝 **Joint-President**, Sports & Adventure Club — led tournaments with 30+ teams and the Annual Athletic Meet 2024
-- 🎪 Organizer, PANTHEON '24 — managed 50+ events
-
----
-
 ## GitHub Stats
 
 <p align="center">
@@ -80,13 +108,5 @@ EEG-Based Gait Decoding and Electrode Optimization
 </p>
 
 ---
-
-## Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/sambit-behera-53363725a">LinkedIn</a> •
-  <a href="mailto:sambit.behera8587@gmail.com">Email</a> •
-  <a href="https://github.com/Sambitasterio">GitHub</a>
-</p>
 
 <p align="center">⭐ From Sambit Behera</p>
