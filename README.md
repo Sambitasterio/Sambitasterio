@@ -109,14 +109,17 @@ EEG-Based Gait Decoding and Electrode Optimization
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sambitasterio&show_icons=true&theme=tokyonight" alt="stats" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambitasterio&layout=compact&theme=tokyonight" alt="top langs" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sambitasterio&show_icons=true&theme=tokyonight&count_private=true" alt="stats" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sambitasterio&layout=compact&theme=tokyonight&langs_count=8" alt="top langs" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sambitasterio&theme=tokyonight" alt="streak" />
+  <img src="https://streak-stats.demolab.com/?user=Sambitasterio&theme=tokyonight" alt="streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Sambitasterio&theme=tokyonight&no-frame=true&column=7&margin-w=8" alt="trophies"/>
+</p>
 ---
 
 ## Connect
